@@ -84,7 +84,7 @@ Example CLI command:
 fab create testWorkspace.Workspace
 
 VISUAL EXPLANATION
-https://jdkorigan.github.io/SKOOL-Blogs-Publication/01-Dojo-Blog-CLI-MCP/media/mcp-vs-cli-integration.png
+https://jdkorigan.github.io/SKOOL-Blogs-Publication/01-Skool-Blog-CLI-MCP/media/mcp-vs-cli-integration.png
 
 MCP (MODEL CONTEXT PROTOCOL)
 With MCP, the "Dev app" sends the execution plan as a structured request to a Fabric MCP server.

@@ -11,11 +11,11 @@ How to capture YouTube, LinkedIn, and other sources into a local Obsidian vault 
 ## Python (uv, 3.14)
 
 ```powershell
-cd 3-Dojo-Blog-Obsidian
+cd 3-Skool-Blog-Obsidian
 uv sync --python 3.14
 ```
 
-Regenerate HTML from Markdown (Dojo dark theme, images inlined):
+Regenerate HTML from Markdown (Skool dark theme, images inlined):
 
 ```powershell
 uv run python code/export_md_to_html.py -o html/organize-knowledge-ai-era.html

@@ -14,4 +14,4 @@ In the scenario where a nurse requests a **stat** medication (e.g., antibiotic),
 The article includes a **scenario workflow** diagram and a minimal implementation lens (agent roles).
 
 ---
-Full article: [Microsoft IQ Era](https://jdkorigan.github.io/SKOOL-Blogs-Publication/02-Dojo-Blog-IQ-Strategy/microsoft-vision-iq-era.html)
+Full article: [Microsoft IQ Era](https://jdkorigan.github.io/SKOOL-Blogs-Publication/02-Skool-Blog-IQ-Strategy/microsoft-vision-iq-era.html)
