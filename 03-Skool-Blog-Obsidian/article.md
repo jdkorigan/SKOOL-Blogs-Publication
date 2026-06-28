@@ -18,7 +18,7 @@ So there is this tool, which according to my sources dates back to 2022 for vers
 
 There is a lot of information about this topic on the Internet, but for this post Iâ€™ll take an example from one of Willâ€™s videos, especially one about â€œontologyâ€. If you donâ€™t have the right tools, it becomes difficult to remember whether it was on the YouTube channel, Fabric Dojo, AI Dojo, and so on.
 
-**Read online:** [Organize your knowledge in the age of AI](https://jdkorigan.github.io/SKOOL-Blogs-Publication/03-Skool-Blog-Obsidian/organize-knowledge-ai-era.html)
+**Installation Instructions:** [Organize your knowledge in the age of AI](https://jdkorigan.github.io/SKOOL-Blogs-Publication/03-Skool-Blog-Obsidian/organize-knowledge-ai-era.html)
 
 ---
 
