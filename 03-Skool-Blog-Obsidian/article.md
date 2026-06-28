@@ -1,10 +1,12 @@
 # Organize your knowledge in the age of AI.
 
+*This post is not directly about Microsoft Fabric â€” it is about organizing our knowledge in the age of AI.*
+
 For several years, I have spent quite a lot of time browsing the Internet to learn, whether on YouTube, LinkedIn, blogs, and so on.
 
 I have spent just as much time looking for ways to retrieve that information later: notes, Chrome shortcuts, organizing videos in YouTube, etc.
 
-A few days ago, I decided to find a system that is more appropriate and better suited to the AI world, especially as Markdown (.md) files have become central to how LLMs and coding agents work. I tested â€œObsidianâ€ (itâ€™s free), and it seems quite good when combined with Codex, Claude, Cursor, and similar tools.
+A few days ago, I decided to find a system that is more appropriate and better suited to the AI world, especially as Markdown (.md) files have become central to how LLMs and coding agents work. I tested â€œObsidianâ€ (itâ€™s free, and there are many other competitors), and it seems quite good when combined with Codex, Claude, Cursor, and similar tools.
 
 So there is this tool, which according to my sources dates back to 2022 for version 1.0. Here is a summary:
 
@@ -14,7 +16,7 @@ So there is this tool, which according to my sources dates back to 2022 for vers
 - **It is highly extensible**: many plugins let you add features such as tasks, calendars, Kanban boards, AI, sync, web publishing, and more.
 - **It is popular for documentation and knowledge management**: useful for organizing ideas, preparing articles, managing projects, or structuring technical watch/technology monitoring.
 
-Iâ€™ll take the example of Willâ€™s videos, especially one about â€œontologyâ€. If you donâ€™t have the right tools, it becomes difficult to remember whether it was on the YouTube channel, Fabric Dojo, AI Dojo, and so on.
+There is a lot of information about this topic on the Internet, but for this post Iâ€™ll take an example from one of Willâ€™s videos, especially one about â€œontologyâ€. If you donâ€™t have the right tools, it becomes difficult to remember whether it was on the YouTube channel, Fabric Dojo, AI Dojo, and so on.
 
 ---
 
